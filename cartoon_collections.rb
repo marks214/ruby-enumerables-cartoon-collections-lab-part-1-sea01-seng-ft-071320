@@ -2,7 +2,7 @@ def greet_characters(array)
   # Use `each` to enumerate over the provided array
   array.each do |element|
   # Print a custom greeting for each element
-  p "Welcome #{element}!"
+  p "Hello #{element}!"
 end
 
 def list_dwarves(array)
